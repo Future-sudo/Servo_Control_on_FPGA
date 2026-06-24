@@ -1,0 +1,11 @@
+*.jou
+*.log
+*.str
+
+servo_control.cache/
+servo_control.hw/
+servo_control.ip_user_files/
+servo_control.runs/
+servo_control.sim/
+
+.Xil/
